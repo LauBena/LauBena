@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LauBena
+- 👋 Hi, I’m @LauraBenavidez..
 - 👀 I’m interested in Python, JavaScript, HTML, CSS, SQL, .NET, etc . . .
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I am looking to collaborate on projects that add knowledge to my career.
